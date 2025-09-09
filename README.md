@@ -1,18 +1,19 @@
+# Calculator App
+
+A straightforward Java-based calculator application built using Visual Studio Code.
+
+## What Is It?
+
+This project contains a simple calculator implemented in Java. It performs basic arithmetic operations—and perhaps more, depending on what you add next. Think of it as a foundation you can build on.
+
+## Prerequisites
+
+- Java Development Kit (JDK) installed
+- Visual Studio Code (with Java support enabled)
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Paarth1809/Calculator_app.git
+   cd Calculator_app
